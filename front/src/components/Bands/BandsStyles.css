@@ -1,0 +1,21 @@
+.text_title_ag {
+    width: 50%;
+    float: left;
+    font-size: 22px;
+}
+.button_padding {
+    float: left;
+}
+
+.main_fon{
+    margin-top: 10px;
+}
+.inline_block {
+    background-color: #F5F5F5;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+.inline_element{
+    float: left;
+}

@@ -1,0 +1,131 @@
+
+.headingPage{
+    display: block;
+    font-size: 21px;
+    font-weight: 700;
+    padding: 35px 0;
+    border-bottom: 1px solid #f0f0f0;
+    margin-bottom: 30px;
+    float: left;
+}
+
+.inline {
+    background-color: #F5F5F5;
+    display: inline-block;
+    width: 100%;
+    border-radius: 5px;
+    padding-left: 20px;
+}
+
+.boldLineHead {
+    font-weight: bold;
+    display: inline-block;
+}
+
+.lineValueButton {
+    float: left;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.lineValueButtonSec {
+    float: left;
+    margin-left: 30px;
+}
+
+.lineValue {
+    float: left;
+}
+
+.inline_block_users_title{
+    padding: 20px;
+    background-color: #F5F5F5;
+    border-radius: 5px;
+    width: 100%;
+    display: inline-block;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: bolder;
+}
+.table_button_cell {
+    width: 100%;
+}
+.text_description {
+    width: 100%;
+    font-size: 16px;
+    font-style: italic;
+    float:left;
+    min-height: 200px;
+    background-color: #F5F5F5;
+    border-radius: 5px;
+    margin-bottom: 7px;
+}
+
+.text_title {
+    font-size: 22px;
+    float: left;
+}
+
+.title_block{
+    width: 70%;
+    float: left;
+}
+
+.text_author{
+    font-size: 16px;
+    font-style: italic;
+    float:left;
+}
+
+.text_description {
+    width: 100%;
+    font-size: 16px;
+    font-style: italic;
+    float:left;
+    min-height: 200px;
+    background-color: #F5F5F5;
+    border-radius: 5px;
+    margin-bottom: 7px;
+}
+
+.button_padding {
+    margin-left: 10px;
+    float: right;
+}
+
+.main_fon{
+    margin-top: 10px;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.inline_block_elements {
+    background-color: #F5F5F5;
+    border-radius: 5px;
+    width: 100%;
+    display: inline-block;
+}
+
+.inline_block_users{
+    float: left;
+    padding-right: 10%;
+    width: 200px;
+}
+
+.inline_block_users_title {
+    padding: 20px;
+    background-color: #F5F5F5;
+    border-radius: 5px;
+    width: 100%;
+    display: inline-block;
+    font-size: 16px;
+    font-style: italic;
+}
+
+
+.form_class {
+    background-color: #F5F5F5;
+    border-radius: 5px;
+    width: 100%;
+    padding-left: 20px;
+}

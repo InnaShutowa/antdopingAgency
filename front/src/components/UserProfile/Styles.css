@@ -1,0 +1,32 @@
+.main{
+    background: #fff;
+    margin-top: 5%;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-left: 15%;
+    padding-right: 15%;
+    border-radius: 5px;
+    padding-bottom: 5%;
+}
+
+.heading{
+    display: block;
+    font-size: 35px;
+    font-weight: 700;
+    padding: 35px 0;
+    border-bottom: 1px solid #f0f0f0;
+    margin-bottom: 30px;
+}
+
+.inline {
+    display: inline-block;
+}
+
+.boldLineHead {
+    font-weight: bold;
+    display: inline-block;
+}
+
+.lineValue {
+    float: left;
+}

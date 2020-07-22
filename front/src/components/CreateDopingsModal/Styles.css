@@ -1,0 +1,6 @@
+.inline_elements {
+    display: inline-block;
+}
+.elements {
+    float: left;
+}

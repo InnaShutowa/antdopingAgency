@@ -1,0 +1,8 @@
+.back {
+  background-color: SandyBrown;
+  background-repeat: repeat-y;
+  background-size: 100%;
+  background-blend-mode: multiply;
+  height: 100%;
+  min-height: 100vh;
+}
